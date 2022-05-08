@@ -1,0 +1,12 @@
+{
+  "extends":"@tsconfig/node14",
+  "exclude": [
+    "node_modules",
+	"cdk.out"
+  ],
+  "include":[
+	  "stacks",
+	  "src"
+  ],
+  
+}
